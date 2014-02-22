@@ -9,7 +9,7 @@
 ###Convert
 
 ```bash
-convert impossible_triangle.svg impossible_triangle.png
+$ convert impossible_triangle.svg impossible_triangle.png
 ```
 
 ##Monkey
@@ -21,5 +21,5 @@ convert impossible_triangle.svg impossible_triangle.png
 ###Convert
 
 ```bash
-convert -background transparent monkey.svg monkey.png
+$ convert -background transparent monkey.svg monkey.png
 ```
